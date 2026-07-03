@@ -6,28 +6,27 @@ class Node(object):
         self.children = children
 """
 
+from collections import deque
+
 class Solution(object):
     def levelOrder(self, root):
-
         if not root:
-             return []
+            return []
+        
         ans = []
-        q = [root]
+        q = deque([root])
+        
         while q:
-                level_size = len(q)
-                level = []
-                next_q = []
-                for i in range(level_size):
-                  node = q[i]
-                  level.append(node.val)   
-                  for child in node.children:
-                    next_q.append(child)
-                ans.append(level)
-                q = next_q    
-
+            level_size = len(q)
+            level = []
+            for _ in range(level_size):
+                node = q.popleft()
+                level.append(node.val)
+                for child in node.children:
+                    q.append(child)
+            ans.append(level)
+        
         return ans
-
-
 
             
        
