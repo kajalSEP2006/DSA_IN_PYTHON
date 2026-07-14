@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/kajalSEP2006/DSA_IN_PYTHON/tree/master/0098-validate-binary-search-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/kajalSEP2006/DSA_IN_PYTHON/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0222-count-complete-tree-nodes](https://github.com/kajalSEP2006/DSA_IN_PYTHON/tree/master/0222-count-complete-tree-nodes) |
 | [0429-n-ary-tree-level-order-traversal](https://github.com/kajalSEP2006/DSA_IN_PYTHON/tree/master/0429-n-ary-tree-level-order-traversal) |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/kajalSEP2006/DSA_IN_PYTHON/tree/master/0098-validate-binary-search-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/kajalSEP2006/DSA_IN_PYTHON/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/kajalSEP2006/DSA_IN_PYTHON/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/kajalSEP2006/DSA_IN_PYTHON/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -28,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/kajalSEP2006/DSA_IN_PYTHON/tree/master/0098-validate-binary-search-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/kajalSEP2006/DSA_IN_PYTHON/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0222-count-complete-tree-nodes](https://github.com/kajalSEP2006/DSA_IN_PYTHON/tree/master/0222-count-complete-tree-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/kajalSEP2006/DSA_IN_PYTHON/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -39,4 +42,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/kajalSEP2006/DSA_IN_PYTHON/tree/master/0222-count-complete-tree-nodes) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/kajalSEP2006/DSA_IN_PYTHON/tree/master/0098-validate-binary-search-tree) |
 <!---LeetCode Topics End-->
